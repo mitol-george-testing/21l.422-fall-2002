@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "574de813-0133-dfd1-1f1f-74ababe0ad61"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Tragedy",
+  "course_description": "\"Tragedy\" is a name originally applied to a particular kind of dramatic art and subsequently to other literary forms; it has also been applied to particular events, often implying thereby a particular view of life. Throughout the history of Western literature it has sustained this double reference. Uniquely and insistently, the realm of the tragic encompasses both literature and life.\n\nThrough careful, critical reading of literary texts, this subject will examine three aspects of the tragic experience:\u00a0\u00a0\u00a0\u00a0\n\n1.  the scapegoat\n2.  the tragic hero\n3.  the ethical crisis\n\nThese aspects of the tragic will be pursued in readings that range in the reference of their materials from the warfare of the ancient world to the experience of the modern extermination camps.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.422",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
